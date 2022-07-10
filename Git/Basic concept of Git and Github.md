@@ -34,3 +34,6 @@
  
 #### Clone
  - to download a working copy from remote repository to local repository
+
+![image](https://user-images.githubusercontent.com/107605023/178146582-aaf2fb46-81ce-44c6-b850-63c642cedcdb.png)
+
